@@ -1,0 +1,10 @@
+Numpy
+Theano
+#Optparse
+#Sys
+#Subprocess
+#Os
+#Gzip
+Simplejson
+#Stat
+
